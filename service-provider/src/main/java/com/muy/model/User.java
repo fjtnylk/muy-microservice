@@ -1,7 +1,7 @@
 package com.muy.model;
 
 /**
- * Created by yanglikai on 2017/6/19.
+ * Created by yanglikai on 2017/6/20.
  */
 public class User {
     private String name;
@@ -29,13 +29,5 @@ public class User {
 
     public void setAge(Integer age) {
         this.age = age;
-    }
-
-    @Override
-    public String toString() {
-        return "User{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
     }
 }
