@@ -18,6 +18,7 @@
         <module>api-gateway-dynamic-route</module>
         <module>config-server</module>
         <module>config-client</module>
+        <module>rabbitmq-hello</module>
     </modules>
 
     <parent>
